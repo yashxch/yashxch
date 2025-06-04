@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Smart Contracts<br>🤝 I’m looking for help with Fullstack Dev<br>🌱 I’m currently learning DAA
+🔭 I’m currently working on Web3 and Web Dev<br>🤝 I’m looking for help with Fullstack Dev<br>
 
 
 ## 🌐 Socials:
