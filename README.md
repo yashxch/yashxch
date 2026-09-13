@@ -1,146 +1,75 @@
-# `YASHWANTH.CH`
-
 <div align="center">
 
-### Software Developer · AI/ML · Cloud · Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YASHWANTH.CH&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=18&color=0:0F0F0F,50:171717,100:2563EB"/>
 
-**Building systems that connect intelligence, automation & real-world engineering.**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-yashxch-181717?style=for-the-badge\&logo=github)](https://github.com/yashxch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashwanth%20CH-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yashxch\&style=for-the-badge\&color=blueviolet)](https://github.com/yashxch)
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/BUILDING-0A0A0A?style=flat-square"/>
+</a>
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/AI%20%2B%20CLOUD-0A0A0A?style=flat-square"/>
+</a>
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/AUTOMATION-0A0A0A?style=flat-square"/>
+</a>
+
+<br/><br/>
+
+### I build software that makes complex systems feel simple.
+
+*AI · Infrastructure · Automation · Intelligent Systems*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-yashxch-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yashxch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## `whoami`
-
-```python
-class Yashwanth:
-
-    role = "Software Developer"
-    education = "B.Tech CSE @ SRM Institute of Science & Technology"
-    location = "Chennai, India"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "LLMs & RAG",
-        "Cloud Engineering",
-        "Automation",
-        "Distributed Systems",
-        "Networking"
-    ]
-
-    currently_building = [
-        "AI-driven automation",
-        "Intelligent network optimization",
-        "Cloud-native systems"
-    ]
-
-    philosophy = "Build it. Break it. Understand it. Improve it."
-```
-
----
-
-## `tech_stack`
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,sql,bash" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-`Machine Learning` · `LLMs` · `RAG` · `Prompt Engineering` · `Generative AI` · `Data Processing`
-
-### Cloud / DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
-</p>
-
-`AWS EC2` · `Docker` · `Kubernetes` · `Jenkins` · `CI/CD` · `Prometheus` · `Grafana`
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,postman" />
-</p>
-
-`REST APIs` · `Automation Scripting` · `Backend Development` · `Git/GitHub`
-
-### Networking
-
-`OTN` · `DWDM` · `ROADM` · `Optical Networks` · `Network Telemetry` · `FCAPS`
-
----
-
-# `featured_projects`
+## `01` — ABOUT
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🔐 ZKVeritas
+### Hey, I'm Yashwanth.
 
-**Synthetic Data Authenticity**
+I'm a **Computer Science Engineering student at SRM Institute of Science & Technology** focused on building practical software systems across **AI, cloud, automation and networking**.
 
-A healthcare-focused system exploring how synthetic datasets can be validated for similarity, independence and integrity without exposing original patient data.
+I like projects where software interacts with the real world — whether that's analyzing telemetry, automating testing, detecting anomalies, optimizing infrastructure or building intelligent developer tools.
 
-**Stack**
+Currently exploring the intersection of:
 
-`Python` `CTGAN` `Pandas` `Scikit-learn` `SHA-256`
-
-</td>
-
-<td width="50%">
-
-### ⚡ EnergyIQ
-
-**Decentralized Smart Energy Optimization**
-
-A smart-energy platform combining federated anomaly detection, trust scoring, optimization and decentralized energy-credit concepts.
-
-**Stack**
-
-`Python` `Flower` `Isolation Forest` `QUBO` `Blockchain`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍼 PulseHalo
-
-**Neonatal Monitoring System**
-
-A biosensor-based neonatal monitoring prototype integrating real-time physiological data with an IoT dashboard.
-
-**Stack**
-
-`ESP32` `AD8232` `Firebase` `IoT`
+`AI` × `Systems` × `Cloud` × `Automation`
 
 </td>
 
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🌐 AI-Based Power Saving
-
-**Intelligent Optical Networks**
-
-Exploring AI-assisted power optimization for optical transport networks by identifying low-utilization resources and recommending power-saving actions.
-
-**Stack**
-
-`Python` `AI` `OTN` `Telemetry` `InfluxDB` `Automation`
+```text
+┌─────────────────────────────┐
+│  SYSTEM STATUS              │
+├─────────────────────────────┤
+│                             │
+│  ● BUILDING                 │
+│                             │
+│  Location                   │
+│  Chennai, India             │
+│                             │
+│  Degree                     │
+│  B.Tech CSE                 │
+│                             │
+│  Graduation                 │
+│  2027                       │
+│                             │
+│  Focus                      │
+│  AI / Cloud / Systems       │
+│                             │
+└─────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -148,117 +77,239 @@ Exploring AI-assisted power optimization for optical transport networks by ident
 
 ---
 
-# `experience`
+## `02` — SELECTED WORK
 
-### 💻 Software Development Intern — Algoshack
+### `ZKVeritas`
 
-Working on automation-oriented software and exploring how AI can reduce manual intervention in test-case execution and analysis.
+#### Synthetic Data Authenticity
 
-`Python` · `AI/ML Fundamentals` · `Automation Scripting` · `XPath`
+> **Can synthetic healthcare data be trusted without exposing the original data?**
 
----
-
-# `what_i_like_building`
+A research-oriented system exploring synthetic data generation, similarity validation and cryptographic integrity for healthcare datasets.
 
 ```text
-                ┌──────────────────────────────┐
-                │       REAL-WORLD SYSTEMS     │
-                └──────────────┬───────────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-          AI / ML           CLOUD           AUTOMATION
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                    INTELLIGENT SYSTEMS
-                               │
-                               ▼
-                      MEASURABLE IMPACT
+Python    CTGAN    Pandas    NumPy
+Scikit-learn    SHA-256    JSON
 ```
 
-I’m particularly interested in systems where **AI isn't just a model sitting in a notebook**, but actually interacts with infrastructure, telemetry, automation and software.
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# `currently_learning`
+### `EnergyIQ`
 
-```diff
-+ Advanced LLM applications
-+ Retrieval-Augmented Generation
-+ Cloud-native architecture
-+ Distributed systems
-+ AI-assisted automation
-+ Network intelligence
-+ Production-grade system design
+#### Decentralized Smart Energy Optimization
+
+> **Detect anomalies. Measure trust. Optimize energy.**
+
+A smart-energy platform combining federated anomaly detection, trust scoring and optimization concepts into a unified energy-management system.
+
+```text
+Python    Flower    Isolation Forest
+QUBO    Optimization    Blockchain
+```
+
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### `PulseHalo`
+
+#### Neonatal Monitoring
+
+> **Real-time sensing for neonatal care.**
+
+A biosensor-based prototype integrating physiological monitoring with an IoT dashboard for real-time visualization of neonatal data.
+
+```text
+ESP32    AD8232    Firebase    IoT
+```
+
+<a href="https://github.com/yashxch">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### `AI × Optical Networks`
+
+#### Intelligent Power Saving
+
+> **Making optical infrastructure more energy-aware.**
+
+An AI-assisted approach to power optimization in optical transport networks by correlating network telemetry and identifying low-utilization resources.
+
+```text
+Python    AI    OTN    DWDM
+Telemetry    InfluxDB    Automation
 ```
 
 ---
 
-# `github_activity`
+## `03` — EXPERIENCE
+
+### Software Development Intern
+
+**Algoshack · Remote**
+
+Working on automation-oriented software and exploring how AI can reduce manual intervention in software testing and generated test-case analysis.
+
+```text
+Python
+Automation Scripting
+AI / ML Fundamentals
+XPath
+```
+
+---
+
+## `04` — STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashxch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+### LANGUAGES
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashxch&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,bash" />
+
+<br/><br/>
+
+### AI / DATA
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br/>
+
+`Machine Learning` · `LLMs` · `RAG` · `Prompt Engineering` · `Generative AI`
+
+<br/><br/>
+
+### CLOUD / DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,prometheus,grafana" />
+
+<br/><br/>
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,postman" />
+
+<br/><br/>
+
+### NETWORKING
+
+`OTN` · `DWDM` · `ROADM` · `Network Telemetry` · `FCAPS` · `Optical Networks`
 
 </div>
 
-<br>
+---
+
+## `05` — HOW I THINK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yashxch&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# `activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashxch/yashxch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# `beyond_code`
-
-**Organizing Co-Lead — NWC Association**
-
-Helping organize technical events, coordinate teams and execute student-focused technology initiatives at SRM.
-
-**24 Mar · Technical Conference**
-
-> 200+ students & faculty · Technical rounds · Unstop · Certificates
-
----
-
-## `the_terminal`
-
-```bash
-$ whoami
-
-yashwanth.ch
-
-$ cat mission.txt
-
-Turn ideas into systems.
-Turn systems into products.
-Keep learning along the way.
-
-$ echo $STATUS
-
-BUILDING...
+```text
+             ┌─────────────┐
+             │    IDEA     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    BUILD    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   MEASURE   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   IMPROVE   │
+             └──────┬──────┘
+                    │
+                    └──────────→ repeat
 ```
 
+### I don't want AI to replace the system.
+
+### I want AI to make the system better.
+
+</div>
+
+---
+
+## `06` — CURRENTLY EXPLORING
+
 <div align="center">
 
-### `Let's build something interesting.`
+`LLM Applications`
+↓
+`RAG & Intelligent Agents`
+↓
+`Cloud-Native Architecture`
+↓
+`Distributed Systems`
+↓
+`AI-Assisted Automation`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer"/>
+</div>
+
+---
+
+## `07` — GITHUB
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=yashxch&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=555555&icon_color=2563EB&rank_icon=github"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashxch&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=555555"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=yashxch&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=111111"/>
+
+</div>
+
+---
+
+## `08` — CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashxch/yashxch/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## `09` — OUTSIDE THE TERMINAL
+
+### NWC Association
+
+**Organizing Co-Lead · SRM**
+
+Helping coordinate teams, technical events and student initiatives across the Networking & Communications Association.
+
+```text
+200+  students & faculty engaged
+5     functional departments
+1     core organizing team
+∞     last-minute problems
+```
+
+---
+
+<div align="center">
+
+<br/>
+
+### `yashwanth.ch`
+
+**Build → Break → Understand → Improve**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:171717,100:0F0F0F"/>
 
 </div>
