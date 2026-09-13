@@ -1,27 +1,264 @@
-# 💫 About Me:
-🔭 I’m currently working on Web3 and Web Dev<br>🤝 I’m looking for help with Fullstack Dev<br>
+# `YASHWANTH.CH`
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthchalumuri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yashwanthch2484) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashspam15@gmail.com) 
+### Software Developer · AI/ML · Cloud · Automation
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashxch&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashxch&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashxch&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Building systems that connect intelligence, automation & real-world engineering.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashxch&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-yashxch-181717?style=for-the-badge\&logo=github)](https://github.com/yashxch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashwanth%20CH-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=yashxch\&style=for-the-badge\&color=blueviolet)](https://github.com/yashxch)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashxch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashxch&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+```python
+class Yashwanth:
+
+    role = "Software Developer"
+    education = "B.Tech CSE @ SRM Institute of Science & Technology"
+    location = "Chennai, India"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLMs & RAG",
+        "Cloud Engineering",
+        "Automation",
+        "Distributed Systems",
+        "Networking"
+    ]
+
+    currently_building = [
+        "AI-driven automation",
+        "Intelligent network optimization",
+        "Cloud-native systems"
+    ]
+
+    philosophy = "Build it. Break it. Understand it. Improve it."
+```
+
+---
+
+## `tech_stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,sql,bash" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+`Machine Learning` · `LLMs` · `RAG` · `Prompt Engineering` · `Generative AI` · `Data Processing`
+
+### Cloud / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
+</p>
+
+`AWS EC2` · `Docker` · `Kubernetes` · `Jenkins` · `CI/CD` · `Prometheus` · `Grafana`
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,postman" />
+</p>
+
+`REST APIs` · `Automation Scripting` · `Backend Development` · `Git/GitHub`
+
+### Networking
+
+`OTN` · `DWDM` · `ROADM` · `Optical Networks` · `Network Telemetry` · `FCAPS`
+
+---
+
+# `featured_projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 ZKVeritas
+
+**Synthetic Data Authenticity**
+
+A healthcare-focused system exploring how synthetic datasets can be validated for similarity, independence and integrity without exposing original patient data.
+
+**Stack**
+
+`Python` `CTGAN` `Pandas` `Scikit-learn` `SHA-256`
+
+</td>
+
+<td width="50%">
+
+### ⚡ EnergyIQ
+
+**Decentralized Smart Energy Optimization**
+
+A smart-energy platform combining federated anomaly detection, trust scoring, optimization and decentralized energy-credit concepts.
+
+**Stack**
+
+`Python` `Flower` `Isolation Forest` `QUBO` `Blockchain`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍼 PulseHalo
+
+**Neonatal Monitoring System**
+
+A biosensor-based neonatal monitoring prototype integrating real-time physiological data with an IoT dashboard.
+
+**Stack**
+
+`ESP32` `AD8232` `Firebase` `IoT`
+
+</td>
+
+<td width="50%">
+
+### 🌐 AI-Based Power Saving
+
+**Intelligent Optical Networks**
+
+Exploring AI-assisted power optimization for optical transport networks by identifying low-utilization resources and recommending power-saving actions.
+
+**Stack**
+
+`Python` `AI` `OTN` `Telemetry` `InfluxDB` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+# `experience`
+
+### 💻 Software Development Intern — Algoshack
+
+Working on automation-oriented software and exploring how AI can reduce manual intervention in test-case execution and analysis.
+
+`Python` · `AI/ML Fundamentals` · `Automation Scripting` · `XPath`
+
+---
+
+# `what_i_like_building`
+
+```text
+                ┌──────────────────────────────┐
+                │       REAL-WORLD SYSTEMS     │
+                └──────────────┬───────────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+          AI / ML           CLOUD           AUTOMATION
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    INTELLIGENT SYSTEMS
+                               │
+                               ▼
+                      MEASURABLE IMPACT
+```
+
+I’m particularly interested in systems where **AI isn't just a model sitting in a notebook**, but actually interacts with infrastructure, telemetry, automation and software.
+
+---
+
+# `currently_learning`
+
+```diff
++ Advanced LLM applications
++ Retrieval-Augmented Generation
++ Cloud-native architecture
++ Distributed systems
++ AI-assisted automation
++ Network intelligence
++ Production-grade system design
+```
+
+---
+
+# `github_activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashxch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashxch&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashxch&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashxch/yashxch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# `beyond_code`
+
+**Organizing Co-Lead — NWC Association**
+
+Helping organize technical events, coordinate teams and execute student-focused technology initiatives at SRM.
+
+**24 Mar · Technical Conference**
+
+> 200+ students & faculty · Technical rounds · Unstop · Certificates
+
+---
+
+## `the_terminal`
+
+```bash
+$ whoami
+
+yashwanth.ch
+
+$ cat mission.txt
+
+Turn ideas into systems.
+Turn systems into products.
+Keep learning along the way.
+
+$ echo $STATUS
+
+BUILDING...
+```
+
+<div align="center">
+
+### `Let's build something interesting.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer"/>
+
+</div>
